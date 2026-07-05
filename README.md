@@ -3,9 +3,8 @@
   <!-- 프로필 표시 ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge) -->
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-  
-<img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="" width="150" height="auto"/> </a>
+
+<!-- 프로필 <a href="http"> <img src="" width="150" height="auto"/> </a> -->
   
   - 🔭 I’m currently a student in MJU.
   - 🌱 I’m currently a studying learning ai engineering and Cloud/network
@@ -25,4 +24,4 @@
   
   <!-- 버셀 방문표시 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195"> -->
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhghd)](https://github.com/jinhgit/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40" width="195"> 
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhghd)](https://github.com/jinhgit/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40" alt="side Image" align="right" width="auto" height="auto" />
