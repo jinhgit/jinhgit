@@ -27,7 +27,7 @@
   
   <!-- 버셀 방문표시 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195"> -->
 
-<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhgit)](https://github.com/anuraghazra/github-readme-stats)
-<br />![jinhgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhgit&hide=contribs,prs&show_icons=true&theme=graywhite)
+<!--   <br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhgit)](https://github.com/anuraghazra/github-readme-stats)  -->
+<!--   <br />![jinhgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhgit&hide=contribs,prs&show_icons=true&theme=graywhite)  -->
 
 <br />[![GitHub Streak](https://streak-stats.demolab.com?user=Jinhgit&locale=ko&mode=weekly)](https://git.io/streak-stats/>)
