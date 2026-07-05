@@ -1,4 +1,4 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World!  <img src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40" width="29px">
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="" width="150" height="auto"/> </a>
