@@ -1,4 +1,4 @@
- ### Hello everyone!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ ### Hello everyone!  
  
   <!-- 프로필 표시 ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge) -->
 
@@ -6,9 +6,9 @@
 
 <!-- 프로필 <a href="http"> <img src="" width="150" height="auto"/> </a> -->
   
-  - 🔭 I’m currently a student in MJU.
-  - 🌱 I’m currently a studying learning ai engineering and Cloud/network
-  - 💬 Ask me about : noxer3935936@naver.com
+  -  I’m currently a student in MJU.
+  -  I’m currently a studying learning ai engineering and Cloud/network
+  -  Ask me about : noxer3935936@naver.com
   -  Pronouns: He / Him
   
   #### 📫 How to reach me: 
